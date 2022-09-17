@@ -1,0 +1,5 @@
+a[customRouterLink] {
+  cursor: pointer;
+  color: green;
+  text-decoration: underline;
+}
